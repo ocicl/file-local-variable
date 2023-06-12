@@ -1,0 +1,10 @@
+* file-local-variable
+
+File-local variable independent from ASDF
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/file-local-variable.git   |
+| commit  | 41f63ac  |
+| systems | file-local-variable |
+|---------+-------------------------------------------|
+
